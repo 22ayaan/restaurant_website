@@ -1,8 +1,8 @@
-import import React from 'react'
-
+import React from 'react'
+import Restaurant from './components/Basics/Restaurant'
 const App = () => {
   return (
-    <div>App</div>
+    <div><Restaurant /></div>
   )
 }
 
